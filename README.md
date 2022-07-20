@@ -7,7 +7,9 @@ const me = {
   name: "Magezi Alaphat",
   technologies: {
     frontend: ["HTML", "CSS/SCSS", "Bootstrap", "Tailwind", "JS/TS", "jQuery", "React.js", "C-Programming", 
-    "Vue.js", "PUG"], backend: ["Node.js"],
+    "Vue.js", "PUG"], 
+
+    backend: ["Node.js"],
     
     contentManagement: ["Wagtail"],
     
