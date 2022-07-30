@@ -4,7 +4,7 @@
 
 ```javascript
 const me = {
-  name: "Magezi Alaphat",
+  name: "Alaphat Magezi",
   technologies: {
     frontend: ["HTML", "CSS/SCSS", "Bootstrap", "Tailwind", "JS/TS", "jQuery", "React.js", "C-Programming", 
     "Vue.js", "PUG"], 
