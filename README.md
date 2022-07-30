@@ -27,7 +27,7 @@ const me = {
 };)
 ```
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arafats1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafats1&layout=compact&theme=cobalt&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafats1&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
 
