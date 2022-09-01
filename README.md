@@ -9,11 +9,11 @@ const me = {
     frontend: ["HTML", "CSS/SCSS", "Bootstrap", "Tailwind", "JS/TS", "jQuery", "React.js", "C-Programming", 
     "Vue.js", "PUG"], 
 
-    backend: ["Node.js"],
+    backend: ["Node.js", "Nestjs", "Prisma ORM", "Passport", "Express"],
     
     contentManagement: ["Wagtail"],
     
-    databases: ["MySQL", "MongoDB"],
+    databases: ["MySQL", "MongoDB", "Postgresgl"],
     
     tools: ["Git", "Docker Containerization", "Heroku pipeline", "Circle CI", "UML", "Express", "Workbench", 
     "ES Lint / Prettier"]
